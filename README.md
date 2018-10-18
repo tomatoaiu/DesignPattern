@@ -8,13 +8,13 @@ language: [en](./README.md) | [jp](./README.jp.md)
 ## Creational Patterns (GoF)
 - Abstract Factory Pattern
 - Builder Pattern
-- [Factory Method Pattern](./src/design-pattern/factory-method.ts)
+- [Factory Method Pattern](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype Pattern
 - Singleton Pattern
 - Singleton Pattern 
 
 ## Structural Patterns (GoF)
-- Adapter Pattern 
+- [Adapter Pattern](./src/structural-patterns/adapter-pattern/adapter.ts)
 - Bridge Pattern
 - Composite Pattern
 - Decorator Pattern

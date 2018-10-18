@@ -6,13 +6,13 @@
 ## 生成に関するパターン(GoF)
 - Abstract Factory パターン
 - Builder パターン
-- [Factory Method パターン](./src/design-pattern/factory-method.ts)
+- [Factory Method パターン](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype パターン
 - Singleton パターン
 - Singleton パターン 
 
 ## 構造に関するパターン(GoF)
-- Adapter パターン 
+- [Adapter パターン](./src/structural-patterns/adapter-pattern/adapter.ts)
 - Bridge パターン
 - Composite パターン
 - Decorator パターン
