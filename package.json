@@ -29,7 +29,7 @@
     "test:watch": "jest --watch"
   },
   "author": "Shunsuke Toba <boushi_sukaimu@yahoo.co.jp>",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "tslib": "~1.9.3"
   }
