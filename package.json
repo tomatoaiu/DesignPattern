@@ -1,7 +1,7 @@
 {
-  "name": "node-typescript-boilerplate",
+  "name": "design-pattern-typescript",
   "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "description": "design pattern collection with typescript.",
   "engineStrict": true,
   "engines": {
     "node": ">= 8.9.0"
@@ -21,6 +21,7 @@
   },
   "scripts": {
     "clean": "rimraf coverage build tmp",
+    "dev": "tsc",
     "build": "tsc -p tsconfig.release.json",
     "build:watch": "tsc -w -p tsconfig.release.json",
     "lint": "tslint -t stylish --project \"tsconfig.json\"",

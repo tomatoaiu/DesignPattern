@@ -1,4 +1,9 @@
 # Design pattern with typescript
+> design pattern collection with typescript
+
+- [Factory Method](./src/desin-pattern/factory-method.ts)
+
+## I forked from jsynowiec/node-typescript-boilerplate
 
 [![TypeScript version][ts-badge]][typescript-31]
 [![Node.js version][nodejs-badge]][nodejs]
@@ -10,10 +15,6 @@
 [![Watch on GitHub][github-watch-badge]][github-watch]
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
-
-
-
-## I forked from jsynowiec/node-typescript-boilerplate
 
 Minimalistic boilerplate to jump-start a [Node.js][nodejs] project in [TypeScript][typescript] [3.1][typescript-31].
 
