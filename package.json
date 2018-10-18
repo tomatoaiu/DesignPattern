@@ -28,8 +28,8 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "author": "Jakub Synowiec <github@jakubsynowiec.info>",
-  "license": "Apache-2.0",
+  "author": "Shunsuke Toba <boushi_sukaimu@yahoo.co.jp>",
+  "license": "",
   "dependencies": {
     "tslib": "~1.9.3"
   }
