@@ -4,5 +4,5 @@
 - [Factory Method](./src/design-pattern/factory-method.ts)
 
 ## I forked
-from jsynowiec/node-typescript-boilerplate.  
+from [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate).  
 Thank jsynowiec!!  
