@@ -25,5 +25,4 @@ class KeyboardAdapter extends Keyboard implements KeyboardPrice {
   }
 }
 
-const product = new KeyboardAdapter()
-console.log(product.getPrice())
+export default KeyboardAdapter
