@@ -1,20 +1,7 @@
 // 参考: https://qiita.com/shoheiyokoyama/items/d752834a6a2e208b90ca
 
-function main (): void {
-    const factory: Factory  = new AccountFactory()
-    const account1: Product = factory.create('Ralph Johnson')
-    const account2: Product = factory.create('Richard Helm')
-    const account3: Product = factory.create('John Vlissides')
-    const account4: Product = factory.create('Erich Gamma')
-
-    account1.use()
-    account2.use()
-    account3.use()
-    account4.use()     
-}
-
 abstract class Product {
-    public abstract use (): void
+    public abstract use (): String
 }
 
 abstract class Factory {
@@ -57,16 +44,19 @@ class Account extends Product {
 
     constructor (owner: String) {
         super()
-        console.log(`Create account: ${owner}`)
         this.owner = owner
     }
 
-    public use (): void {
-        console.log(`Use account: ${this.owner}`)
+    public use (): String {
+        return `Use account: ${this.owner}`
     }
     public getOwner (): String {
         return this.owner
     }
 }
 
-main()
+export {
+  Factory,
+  AccountFactory,
+  Product
+}
