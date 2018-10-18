@@ -24,7 +24,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 
 ## Behavioral Patterns (GoF)
 - Chain of Responsibility Pattern
-- Command Pattern
+- [Command Pattern](./src/behavioral-patterns/command-pattern/command.ts)
 - Interpreter Pattern
 - Iterator Pattern
 - Mediator Pattern
