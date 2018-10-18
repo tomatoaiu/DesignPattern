@@ -21,9 +21,13 @@ build/
 
 # Optional npm cache directory
 .npm
+package-lock.json
 
 # Optional eslint cache
 .eslintcache
 
 # Misc
 .DS_Store
+
+# Yarn
+yarn.lock
