@@ -1,4 +1,4 @@
-import { Receiver, GetHundredCommand, GetTwentyCommand, Command, Invoker } from '../../../src/behavioral-patterns/command-pattern/command'
+import { Command, GetHundredCommand, GetTwentyCommand, Invoker, Receiver } from '../../../src/behavioral-patterns/command-pattern/command'
 
 describe('Command Pattern', () => {
   const receiver: Receiver = new Receiver()
