@@ -11,7 +11,6 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - [Factory Method Pattern](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype Pattern
 - Singleton Pattern
-- Singleton Pattern 
 
 ## Structural Patterns (GoF)
 - [Adapter Pattern](./src/structural-patterns/adapter-pattern/adapter.ts)
