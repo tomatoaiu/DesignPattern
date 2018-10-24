@@ -5,7 +5,7 @@
 
 ## 生成に関するパターン(GoF)
 - Abstract Factory パターン
-- Builder パターン
+- [Builder パターン](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method パターン](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype パターン
 - Singleton パターン

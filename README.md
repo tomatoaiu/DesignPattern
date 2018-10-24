@@ -7,7 +7,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 
 ## Creational Patterns (GoF)
 - Abstract Factory Pattern
-- Builder Pattern
+- [Builder Pattern](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method Pattern](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype Pattern
 - Singleton Pattern
