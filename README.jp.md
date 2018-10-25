@@ -8,7 +8,7 @@
 - [Builder パターン](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method パターン](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype パターン
-- Singleton パターン
+- [Singleton パターン](./src/creational-patterns/singleton-pattern/singleton.ts)
 
 ## 構造に関するパターン(GoF)
 - [Adapter パターン](./src/structural-patterns/adapter-pattern/adapter.ts)

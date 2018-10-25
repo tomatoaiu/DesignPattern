@@ -10,7 +10,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - [Builder Pattern](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method Pattern](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype Pattern
-- Singleton Pattern
+- [Singleton Pattern](./src/creational-patterns/singleton-pattern/singleton.ts)
 
 ## Structural Patterns (GoF)
 - [Adapter Pattern](./src/structural-patterns/adapter-pattern/adapter.ts)
