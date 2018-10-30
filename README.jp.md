@@ -12,7 +12,7 @@
 
 ## 構造に関するパターン(GoF)
 - [Adapter パターン](./src/structural-patterns/adapter-pattern/adapter.ts)
-- [Bridge パターン](./src/structural-patterns/bridge-pattern/bridge-pattern.ts)
+- [Bridge パターン](./src/structural-patterns/bridge-pattern/bridge.ts)
 - Composite パターン
 - Decorator パターン
 - Facade パターン
