@@ -1,4 +1,4 @@
-import { LaunchPad, TrackingLaunchPad, Fighter } from '../../../src/structural-patterns/bridge-pattern/bridge-pattern'
+import { LaunchPad, TrackingLaunchPad, Fighter } from '../../../src/structural-patterns/bridge-pattern/bridge'
 
 describe('Bridge Pattern', () => {
   const launchPad: LaunchPad = new LaunchPad(new Fighter())
