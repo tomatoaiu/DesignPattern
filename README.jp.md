@@ -23,7 +23,7 @@
 - Chain of Responsibility パターン
 - [Command パターン](./src/behavioral-patterns/command-pattern/command.ts)
 - Interpreter パターン
-- Iterator パターン
+- [Iterator パターン](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - Mediator パターン
 - Memento パターン
 - Observer パターン

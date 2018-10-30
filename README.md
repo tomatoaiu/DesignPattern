@@ -25,7 +25,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Chain of Responsibility Pattern
 - [Command Pattern](./src/behavioral-patterns/command-pattern/command.ts)
 - Interpreter Pattern
-- Iterator Pattern
+- [Iterator Pattern](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - Mediator Pattern
 - Memento Pattern
 - Observer Pattern
