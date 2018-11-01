@@ -30,7 +30,7 @@
 - State パターン
 - Strategy パターン
 - Template Method パターン
-- Visitor パターン
+- [Visitor パターン](./src/behavioral-patterns/visitor-pattern/visitor.ts)
 
 ## 並行性に関するパターン
 - Active object パターン
