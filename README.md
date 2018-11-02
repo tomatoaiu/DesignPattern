@@ -32,7 +32,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - State Pattern
 - Strategy Pattern
 - Template Method Pattern
-- Visitor Pattern
+- [Visitor Pattern](./src/behavioral-patterns/visitor-pattern/visitor.ts)
 
 ## Multi Thread Patterns
 - Active object Pattern
