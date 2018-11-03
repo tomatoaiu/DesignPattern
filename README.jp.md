@@ -27,7 +27,7 @@
 - Mediator パターン
 - Memento パターン
 - Observer パターン
-- State パターン
+- [State パターン](./src/behavioral-patterns/state-pattern/state.ts)
 - Strategy パターン
 - [Template Method パターン](./src/behavioral-patterns/template-method-pattern/template-method.ts)
 - [Visitor パターン](./src/behavioral-patterns/visitor-pattern/visitor.ts)
