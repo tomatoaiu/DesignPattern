@@ -31,7 +31,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Observer Pattern
 - State Pattern
 - Strategy Pattern
-- Template Method Pattern
+- [Template Method Pattern](./src/behavioral-patterns/template-method-pattern/template-method.ts)
 - [Visitor Pattern](./src/behavioral-patterns/visitor-pattern/visitor.ts)
 
 ## Multi Thread Patterns
