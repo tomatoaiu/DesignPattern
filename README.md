@@ -30,7 +30,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Memento Pattern
 - Observer Pattern
 - State Pattern
-- Strategy Pattern
+- [Strategy Pattern](./src/behavioral-patterns/strategy-pattern/strategy.ts)
 - [Template Method Pattern](./src/behavioral-patterns/template-method-pattern/template-method.ts)
 - [Visitor Pattern](./src/behavioral-patterns/visitor-pattern/visitor.ts)
 
