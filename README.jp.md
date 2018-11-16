@@ -24,7 +24,7 @@
 - [Command パターン](./src/behavioral-patterns/command-pattern/command.ts)
 - Interpreter パターン
 - [Iterator パターン](./src/behavioral-patterns/iterator-pattern/iterator.ts)
-- Mediator パターン
+- [Mediator パターン](./src/behavioral-patterns/mediator-pattern/mediator.ts)
 - Memento パターン
 - [Observer パターン](./src/behavioral-patterns/observer-pattern/observer.ts)
 - [State パターン](./src/behavioral-patterns/state-pattern/state.ts)
