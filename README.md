@@ -27,7 +27,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Interpreter Pattern
 - [Iterator Pattern](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - [Mediator Pattern](./src/behavioral-patterns/mediator-pattern/mediator.ts)
-- Memento Pattern
+- [Memento Pattern](./src/behavioral-patterns/memento-pattern/memento.ts)
 - [Observer Pattern](./src/behavioral-patterns/observer-pattern/observer.ts)
 - [State Pattern](./src/behavioral-patterns/state-pattern/state.ts)
 - [Strategy Pattern](./src/behavioral-patterns/strategy-pattern/strategy.ts)
