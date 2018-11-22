@@ -22,7 +22,7 @@
 ## 振る舞いに関するパターン(GoF)
 - Chain of Responsibility パターン
 - [Command パターン](./src/behavioral-patterns/command-pattern/command.ts)
-- Interpreter パターン
+- [Interpreter パターン](./src/behavioral-patterns/interpreter-pattern/interpreter.ts)
 - [Iterator パターン](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - [Mediator パターン](./src/behavioral-patterns/mediator-pattern/mediator.ts)
 - [Memento パターン](./src/behavioral-patterns/memento-pattern/memento.ts)
