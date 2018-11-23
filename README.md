@@ -22,7 +22,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Proxy Pattern
 
 ## Behavioral Patterns (GoF)
-- Chain of Responsibility Pattern
+- [Chain of Responsibility Pattern](./src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility.ts)
 - [Command Pattern](./src/behavioral-patterns/command-pattern/command.ts)
 - [Interpreter Pattern](./src/behavioral-patterns/interpreter-pattern/interpreter.ts)
 - [Iterator Pattern](./src/behavioral-patterns/iterator-pattern/iterator.ts)
