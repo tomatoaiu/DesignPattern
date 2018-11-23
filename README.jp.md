@@ -20,7 +20,7 @@
 - Proxy パターン
 
 ## 振る舞いに関するパターン(GoF)
-- Chain of Responsibility パターン
+- [Chain of Responsibility パターン](./src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility.ts)
 - [Command パターン](./src/behavioral-patterns/command-pattern/command.ts)
 - Interpreter パターン
 - [Iterator パターン](./src/behavioral-patterns/iterator-pattern/iterator.ts)

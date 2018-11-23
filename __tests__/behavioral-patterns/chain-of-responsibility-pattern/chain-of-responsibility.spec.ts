@@ -1,4 +1,4 @@
-import { Japanese, English, LanguageHandler } from '../../../src/behavioral-patterns/chain-of-responsibility/chain-of-responsibility'
+import { Japanese, English, LanguageHandler } from '../../../src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility'
 
 describe('Mediator Pattern', () => {
   const languageHandler: LanguageHandler = new LanguageHandler();
