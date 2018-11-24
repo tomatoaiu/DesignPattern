@@ -16,7 +16,7 @@
 - Composite パターン
 - Decorator パターン
 - Facade パターン
-- Flyweight パターン
+- [Flyweight パターン](./src/structural-patterns/flyweight-pattern/flyweight.ts)
 - Proxy パターン
 
 ## 振る舞いに関するパターン(GoF)

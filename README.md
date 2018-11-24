@@ -18,7 +18,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Composite Pattern
 - Decorator Pattern
 - Facade Pattern
-- Flyweight Pattern
+- [Flyweight Pattern](./src/structural-patterns/flyweight-pattern/flyweight.ts)
 - Proxy Pattern
 
 ## Behavioral Patterns (GoF)
