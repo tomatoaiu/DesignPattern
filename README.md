@@ -17,7 +17,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - [Bridge Pattern](./src/structural-patterns/bridge-pattern/bridge.ts)
 - Composite Pattern
 - Decorator Pattern
-- Facade Pattern
+- [Facade Pattern](./src/structural-patterns/facade-pattern/facade.ts)
 - [Flyweight Pattern](./src/structural-patterns/flyweight-pattern/flyweight.ts)
 - Proxy Pattern
 
