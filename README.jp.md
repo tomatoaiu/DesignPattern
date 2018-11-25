@@ -16,13 +16,13 @@
 - Composite パターン
 - Decorator パターン
 - [Facade パターン](./src/structural-patterns/facade-pattern/facade.ts)
-- Flyweight パターン
+- [Flyweight パターン](./src/structural-patterns/flyweight-pattern/flyweight.ts)
 - Proxy パターン
 
 ## 振る舞いに関するパターン(GoF)
-- Chain of Responsibility パターン
+- [Chain of Responsibility パターン](./src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility.ts)
 - [Command パターン](./src/behavioral-patterns/command-pattern/command.ts)
-- Interpreter パターン
+- [Interpreter パターン](./src/behavioral-patterns/interpreter-pattern/interpreter.ts)
 - [Iterator パターン](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - [Mediator パターン](./src/behavioral-patterns/mediator-pattern/mediator.ts)
 - [Memento パターン](./src/behavioral-patterns/memento-pattern/memento.ts)

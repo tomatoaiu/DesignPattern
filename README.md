@@ -18,13 +18,13 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Composite Pattern
 - Decorator Pattern
 - [Facade Pattern](./src/structural-patterns/facade-pattern/facade.ts)
-- Flyweight Pattern
+- [Flyweight Pattern](./src/structural-patterns/flyweight-pattern/flyweight.ts)
 - Proxy Pattern
 
 ## Behavioral Patterns (GoF)
-- Chain of Responsibility Pattern
+- [Chain of Responsibility Pattern](./src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility.ts)
 - [Command Pattern](./src/behavioral-patterns/command-pattern/command.ts)
-- Interpreter Pattern
+- [Interpreter Pattern](./src/behavioral-patterns/interpreter-pattern/interpreter.ts)
 - [Iterator Pattern](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - [Mediator Pattern](./src/behavioral-patterns/mediator-pattern/mediator.ts)
 - [Memento Pattern](./src/behavioral-patterns/memento-pattern/memento.ts)
