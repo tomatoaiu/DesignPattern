@@ -14,7 +14,7 @@
 - [Adapter パターン](./src/structural-patterns/adapter-pattern/adapter.ts)
 - [Bridge パターン](./src/structural-patterns/bridge-pattern/bridge.ts)
 - Composite パターン
-- Decorator パターン
+- [Decorator パターン](./src/structural-patterns/decorator-pattern/decorator.ts)
 - Facade パターン
 - Flyweight パターン
 - Proxy パターン
