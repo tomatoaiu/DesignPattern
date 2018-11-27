@@ -14,8 +14,6 @@ export class SalmonRice extends Rice {
 }
 
 export class Ochazuke extends Rice {
-  rice: Rice;
-
   constructor (rice: Rice) {
     super();
     this.topping = `tea ${rice.topping}`;
