@@ -14,15 +14,15 @@
 - [Adapter パターン](./src/structural-patterns/adapter-pattern/adapter.ts)
 - [Bridge パターン](./src/structural-patterns/bridge-pattern/bridge.ts)
 - Composite パターン
-- Decorator パターン
-- Facade パターン
-- Flyweight パターン
+- [Decorator パターン](./src/structural-patterns/decorator-pattern/decorator.ts)
+- [Facade パターン](./src/structural-patterns/facade-pattern/facade.ts)
+- [Flyweight パターン](./src/structural-patterns/flyweight-pattern/flyweight.ts)
 - [Proxy パターン](./src/structural-patterns/proxy-pattern/proxy.ts)
 
 ## 振る舞いに関するパターン(GoF)
-- Chain of Responsibility パターン
+- [Chain of Responsibility パターン](./src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility.ts)
 - [Command パターン](./src/behavioral-patterns/command-pattern/command.ts)
-- Interpreter パターン
+- [Interpreter パターン](./src/behavioral-patterns/interpreter-pattern/interpreter.ts)
 - [Iterator パターン](./src/behavioral-patterns/iterator-pattern/iterator.ts)
 - [Mediator パターン](./src/behavioral-patterns/mediator-pattern/mediator.ts)
 - [Memento パターン](./src/behavioral-patterns/memento-pattern/memento.ts)
