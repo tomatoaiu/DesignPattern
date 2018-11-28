@@ -19,7 +19,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Decorator Pattern
 - Facade Pattern
 - Flyweight Pattern
-- Proxy Pattern
+- [Proxy Pattern](./src/structural-patterns/proxy-pattern/proxy.ts)
 
 ## Behavioral Patterns (GoF)
 - Chain of Responsibility Pattern
