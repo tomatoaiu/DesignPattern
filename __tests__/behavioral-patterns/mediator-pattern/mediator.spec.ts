@@ -1,6 +1,6 @@
 import { Github, Repository } from '../../../src/behavioral-patterns/mediator-pattern/mediator'
 
-describe('Mediator Pattern', () => {
+describe('Proxy Pattern', () => {
   const github: Github = new Github()
   const designRepository: Repository = new Repository('desidn')
   const patternRepository: Repository = new Repository('pattern')

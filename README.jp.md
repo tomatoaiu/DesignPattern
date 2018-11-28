@@ -17,7 +17,7 @@
 - [Decorator パターン](./src/structural-patterns/decorator-pattern/decorator.ts)
 - [Facade パターン](./src/structural-patterns/facade-pattern/facade.ts)
 - [Flyweight パターン](./src/structural-patterns/flyweight-pattern/flyweight.ts)
-- Proxy パターン
+- [Proxy パターン](./src/structural-patterns/proxy-pattern/proxy.ts)
 
 ## 振る舞いに関するパターン(GoF)
 - [Chain of Responsibility パターン](./src/behavioral-patterns/chain-of-responsibility-pattern/chain-of-responsibility.ts)
