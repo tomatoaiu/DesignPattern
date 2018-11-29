@@ -9,7 +9,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Abstract Factory Pattern
 - [Builder Pattern](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method Pattern](./src/creational-patterns/factory-method-pattern/factory-method.ts)
-- Prototype Pattern
+- [Prototype Pattern](./src/creational-patterns/prototype-pattern/prototype.ts)
 - [Singleton Pattern](./src/creational-patterns/singleton-pattern/singleton.ts)
 
 ## Structural Patterns (GoF)
