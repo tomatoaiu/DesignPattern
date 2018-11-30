@@ -15,7 +15,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 ## Structural Patterns (GoF)
 - [Adapter Pattern](./src/structural-patterns/adapter-pattern/adapter.ts)
 - [Bridge Pattern](./src/structural-patterns/bridge-pattern/bridge.ts)
-- Composite Pattern
+- [Composite Pattern](./src/structural-patterns/composite-pattern/composite.ts)
 - [Decorator Pattern](./src/structural-patterns/decorator-pattern/decorator.ts)
 - [Facade Pattern](./src/structural-patterns/facade-pattern/facade.ts)
 - [Flyweight Pattern](./src/structural-patterns/flyweight-pattern/flyweight.ts)
