@@ -4,7 +4,7 @@
 言語: [en](./README.md) | [jp](./README.jp.md)
 
 ## 生成に関するパターン(GoF)
-- Abstract Factory パターン
+- [Abstract Factory パターン](./src/creational-patterns/abstract-factory-pattern/abstract-factory.ts)
 - [Builder パターン](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method パターン](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - [Prototype パターン](./src/creational-patterns/prototype-pattern/prototype.ts)
