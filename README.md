@@ -6,7 +6,7 @@
 language: [en](./README.md) | [jp](./README.jp.md)
 
 ## Creational Patterns (GoF)
-- Abstract Factory Pattern
+- [Abstract Factory Pattern](./src/creational-patterns/abstract-factory-pattern/abstract-factory.ts)
 - [Builder Pattern](./src/creational-patterns/builder-pattern/builder.ts)
 - [Factory Method Pattern](./src/creational-patterns/factory-method-pattern/factory-method.ts)
 - Prototype Pattern
