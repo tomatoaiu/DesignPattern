@@ -101,7 +101,7 @@
 - Factory パターン
 - Multiton パターン
 - Monostate パターン
-- Null object パターン
+- [Null object パターン](./src/other-patterns/null-object.ts)
 - Object pool パターン
 - Servant (デザインパターン)
 - Service layer パターン

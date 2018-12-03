@@ -103,7 +103,7 @@ language: [en](./README.md) | [jp](./README.jp.md)
 - Factory Pattern
 - Multiton Pattern
 - Monostate Pattern
-- Null object Pattern
+- [Null object Pattern](./src/other-patterns/null-object.ts)
 - Object pool Pattern
 - Servant (Design Pattern)
 - Service layer Pattern
