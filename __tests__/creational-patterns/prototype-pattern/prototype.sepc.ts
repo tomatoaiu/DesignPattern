@@ -1,4 +1,4 @@
-import { Template, ClassDiagram, SequenceDiagram } from '../../../src/creational-patterns/protptype-pattern/prototype';
+import { Template, ClassDiagram, SequenceDiagram } from '../../../src/creational-patterns/prototype-pattern/prototype';
 
 describe('Prototype Pattern', () => {
   const template: Template = new Template();
